@@ -1,1 +1,2 @@
 # Digital-Image-Processing
+The second assignement is about Optical Character Recognition(OCR) from images with text and training a model in order to automate recognize the characters from images after it is trained to one given image with its text written.

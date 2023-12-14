@@ -1,1 +1,2 @@
 # Digital-Image-Processing
+The third assignment was about image registration and here I have the implementation of local descriptors for the area around specific pixels of an image,the Harris Corner Detector algorithm, the RANdom Sample Consensus(RANSAC) algorithm in order to match descriptors
